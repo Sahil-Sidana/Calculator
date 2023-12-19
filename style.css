@@ -34,11 +34,17 @@ td{
     width: 80px;
     border: 2px solid #ccc;
     border-radius: 8px;
+    transition: 150ms;
 }
 table{
     margin: 0px auto;
     border: 6px solid #ccc;
     /* border-radius: 5px; */
+    
+}
+
+td:active{
+    transform: scale(0.3);
 }
 
 button{
@@ -50,4 +56,8 @@ button{
     box-shadow: 1px 1px 18px blanchedalmond;
     border-radius: 8px;
     /* background-color: lightseagreen; */
+}
+
+button:hover{
+    cursor: pointer;
 }
