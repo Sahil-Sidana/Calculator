@@ -34,7 +34,7 @@ td{
     width: 80px;
     border: 2px solid #ccc;
     border-radius: 8px;
-    transition: 150ms;
+    transition: 250ms;
 }
 table{
     margin: 0px auto;
