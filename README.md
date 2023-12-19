@@ -11,6 +11,10 @@ A basic web-based calculator that performs addition, subtraction, multiplication
 - Division (/)
 - Modulo (%)
 
+## Demo
+
+[Live Demo](#) (https://sahil-sidana.github.io/Calculator/)
+
 ## How to Use
 
 Clone the repository:
